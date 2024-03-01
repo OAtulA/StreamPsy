@@ -1,5 +1,9 @@
 # Here is a basic outline of how you can create a site to stream and add people using the MERN stack:
 
+## Tech Stack
+MERN  
+webRTC  
+
 ## Step 1: Set up your backend using Node.js and Express
 - Create a new Node.js project.
 - Install Express to handle routing.
@@ -22,7 +26,11 @@
 - Integrate a video streaming service like Vimeo or YouTube API.
 - Allow users to add videos by providing a link or uploading directly.
 
-## Step 6: Add people by creating a link
+## Step 6: Add webRTC
+- Initially give option to add one user.
+- Then add multiple users to the stream
+
+## Step 7: Add people by creating a link
 - Implement a feature where users can generate unique links to share with others.
 - Use these links to connect people within your site.
 
